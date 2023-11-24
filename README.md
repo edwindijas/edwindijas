@@ -38,6 +38,16 @@ I've had the privilege of contributing to notable projects during my career. Her
 - Led the development of webinars, virtual events, and personalized content experiences.
 - Engineered a comprehensive ticketing system for physical engagements.
 
+### Other Expiriences
+- Black British women exist: Javascript Fullstack engineer	UK		2021 May – 2021 Dec
+- Agile Systems Malawi: Frontend Engineer			Malawi		2021 Jan – 2021 March
+- BASEAFRIQUE: Frontend Engineer			Nigeria		2019 May – 2020 Jan
+- ABSTRACT RECORDS Malawi: Fullstack Javascript 	Malawi		2016 Feb – 2018 Dec
+- AUDIO VISUAL SOLUTIONS: Graphic Designer		Malawi		2015 Mar – 2015 Oct
+- EDWONDER: Software Engineer	(LAMP)			Malawi 		2012 Jan – 2015 Dec
+- Freelancer: Fullstack (LAMP) Developer			Global		2011 Jan – 2012 Dec
+
+
 ## Skills
 - React, JavaScript, TypeScript, NodeJS, Express-JS
 - PHP, Jira, C#, ASP.NET, MySQL
