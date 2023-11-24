@@ -6,6 +6,11 @@ Welcome to my GitHub repository! I'm a seasoned Senior Engineer with a passion f
 ## Projects
 Here are some highlights of my recent projects:
 
+### TaskSpace [WIP]
+- Welcome to Taskspce where task management meets simplicity. Our intuitive platform streamlines your tasks list, fostering efficient organization and collaboration. Set deadlines, customize workflows, and enjoy a user-friendly interface designed for individuals and teams alike. Elevate your productivity with Taskspace, prioritizing security to ensure your data remains safeguarded.
+- Technologies used: React, HTML, Tailwind, Typescript
+- [View source code](https://github.com/edwindijas/todo) | [Check live demo](https://taskspace.edwin-chiwona.com/).
+
 ### [Bug blast](https://bug-blast.edwin-chiwona.com/)
 - Bug Blast" is a game where the player controls a cannon at the screen's center. The goal is to use the cannon to fire mortars and kill bugs that appear on the screen
 - Technologies used: React, Redux, Node, HTML, Phaser.Js.
@@ -13,11 +18,6 @@ Here are some highlights of my recent projects:
 
 ![plot](./images/bug-blast.png)
 ![plot](./images/bug-blast-2.png)
-
-### TaskSpace [WIP]
-- Welcome to Taskspce where task management meets simplicity. Our intuitive platform streamlines your tasks list, fostering efficient organization and collaboration. Set deadlines, customize workflows, and enjoy a user-friendly interface designed for individuals and teams alike. Elevate your productivity with Taskspace, prioritizing security to ensure your data remains safeguarded.
-- Technologies used: React, HTML, Tailwind, Typescript
-- [View source code](https://github.com/edwindijas/todo) | [Check live demo](https://taskspace.edwin-chiwona.com/).
 
 ## Work Experience
 I've had the privilege of contributing to notable projects during my career. Here are a few key roles:
