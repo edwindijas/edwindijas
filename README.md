@@ -23,10 +23,11 @@ Here are some highlights of my recent projects:
 I've had the privilege of contributing to notable projects during my career. Here are a few key roles:
 
 ### Proxify Ab, Sweden
-#### Lead Engineer - Client: FreshFx Media (June 2023 - Present)
-- Led the development of Football Philosophy Pages within Red Bull Aphub.
-- Integrated 3D illustrations for enhanced engagement.
-- Successfully delivered the entire Philosophy Pages section.
+#### Lead Engineer - Client: FreshFx Media (June 2023 - Feb 2024)
+- Integrated 3D illustrations for enhanced engagement and immersive experience.
+- Developed a video player component with pause functionality and a drawing mode for strategic
+planning.
+- Conducted daily meetings, facilitated feature discussions, and performed code reviews.
 
 ### Vonaffensels, Germany
 #### Senior Frontend Engineer - Client: Vonaffensels (Jan 2023 – March 2023)
